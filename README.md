@@ -45,8 +45,7 @@ a shot on a vertical wooden wall. This should build the foundation to further de
       - ...
     - data_testings.py                  (Assignment of real coordinates to impact number)
   
-  - Docs/
-    - BA-MGST-22-VZ_Bachelorarbeit_Seelos_Sebastian.pdf  (Final PDF of the bachelor thesis)
+  - BA-MGST-22-VZ_Bachelorarbeit_Seelos_Sebastian.pdf  (Final PDF of the bachelor thesis)
 
   - README.md                       (Project overview and documentation)
 
